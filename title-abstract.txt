@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<On Evaluating the Robustness of Language Models with Tuning>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Prompt tuning and prefix tuning are two effective mechanisms to leverage frozen language models to perform downstream tasks. Robustness reflects models’ resilience of output under a change or noise in the input. In this project, we analyze the robustness of natural language models using various tuning methods with respect to a domain shift (i.e. training on a domain but evaluating on out-of-domain data). We apply both prompt tuning and prefix tuning on T5 models for reading comprehension (i.e. question-answering) and GPT-2 models for table-to-text generation.>
